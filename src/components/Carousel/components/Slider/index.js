@@ -55,4 +55,6 @@ const Slider = ({ children }) => (
   </Container>
 );
 
+
+
 export default Slider; 
