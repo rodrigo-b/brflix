@@ -1,0 +1,134 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes nacionais",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Filmes nacionais",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Memes, Filmes, games e mais coisas BR",
+          "url": "https://www.youtube.com/watch?v=dW052BHYyQk"
+        },
+        {
+          "titulo": "O auto da compadecida",
+          "url": "https://www.youtube.com/watch?v=XPuMu_ENzlg"
+        },
+        {
+          "titulo": "O doutrinador",
+          "url": "https://www.youtube.com/watch?v=H8r2koaPr3A"
+        },
+        {
+          "titulo": "Bingo",
+          "url": "https://www.youtube.com/watch?v=hidcxSOQ_Gg"
+        },
+        {
+          "titulo": "Minha mãe é uma peça",
+          "url": "https://www.youtube.com/watch?v=9hyLbCV0Dxo"
+        },
+        {
+          "titulo": "Deus é brasileiro",
+          "url": "https://www.youtube.com/watch?v=CqWHi3rHWsQ"
+        },
+        {
+          "titulo": "Tropa de Elite",
+          "url": "https://www.youtube.com/watch?v=_V_nZNWPYQk"
+        }     
+      ]
+    },
+    {
+      "titulo": "Memes BR",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Incriveis memes BR",
+        "url": "https://www.youtube.com/watch?v=XPuMu_ENzlg"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=XPuMu_ENzlg"
+        },
+        {
+          "titulo": "Memes do caixão",
+          "url": "https://www.youtube.com/watch?v=mLoFTs3TPsw"
+        },
+        {
+          "titulo": "Memes gerais",
+          "url": "https://www.youtube.com/watch?v=bjr8HsWFaVk"
+        },
+        {
+          "titulo": "Meme passinho do romano",
+          "url": "https://www.youtube.com/watch?v=V8xcrhlLTa0"
+        }, 
+        {
+          "titulo": "Memes futebol",
+          "url": "https://www.youtube.com/watch?v=_ZEACJf2wa0"
+        }
+      ]
+    },
+    {
+      "titulo": "Batalhas de Rima",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "As melhores batalhas",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "Dudu vs jaya",
+          "url": "https://www.youtube.com/watch?v=6pxBoe4fjDk&t=968s"
+        },
+        {
+          "titulo": "Cesar vs Drizzy",
+          "url": "https://www.youtube.com/watch?v=PtuP21-8LgE"
+        },
+        {
+          "titulo": "Tavin vs drizzy",
+          "url": "https://www.youtube.com/watch?v=yebDqxHIAAI"
+        },
+        {
+          "titulo": "Zen vs Samurai",
+          "url": "https://www.youtube.com/watch?v=PPUvnQT0kBk"
+        }
+      ]
+    },
+    {
+      "titulo": "Games BR",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Dandara",
+          "url": "https://www.youtube.com/watch?v=vabfaRJoatU"
+        },
+        {
+          "titulo": "171",
+          "url": "https://www.youtube.com/watch?v=hqe3yWrUR0s"
+        },
+        {
+          "titulo": "A lenda do herói",
+          "url": "https://www.youtube.com/watch?v=4VgRzOu-VU0"
+        },
+        {
+          "titulo": "Horison turbo chase",
+          "url": "https://www.youtube.com/watch?v=4VomFVNGgnA"
+
+        }
+      ]
+    }
+  ]
+}
